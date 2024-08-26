@@ -1,1 +1,1 @@
-This repo contains all the assignments that were given in Cohort3.0.
+This repo contains all the assignments that are given in Cohort3.0.
