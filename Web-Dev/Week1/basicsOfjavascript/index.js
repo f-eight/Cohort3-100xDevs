@@ -1,4 +1,4 @@
-// /*Create a variable for each of the following: your favorite color,
+// Create a variable for each of the following: your favorite color,
 // your height in centimeters, and whether you like pizza.
 // Use appropriate variable declarations (let, const, or var). Try logging it using console.log */
 // function demoassignment() {
@@ -64,8 +64,8 @@
 
 function arrOfobj(persons) {
   const man = [];
-  for(const person of persons) {
-    if(person.gender === "male") {
+  for (const person of persons) {
+    if (person.gender === "male") {
       man.push(person);
     }
   }
